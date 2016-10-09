@@ -1,0 +1,11 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It kind of starts recording a baseline. So there will be a starting point for comparing files after commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is different from the working director and the repository in that it cannot be accessed or it is not physically present? It is not a directory or a folder that one can access. It is an intermediate area.
+
+
+
