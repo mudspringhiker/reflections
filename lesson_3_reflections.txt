@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	We will be meeting in person to collaborate. Need to set up an appointment for this meeting. Easier in terms of getting the opinion of other party since it's face to face. But without branching tools, it might be hard if the file is complicated.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	It's better to make changes in a separate branch rather than directly in a master while collaborating and need approval on a project prior to making changes. Doing changes in a branch keeps the master intact and functional, though it won't reflect improvements. It depends on the case if changes can be made in the master itself. If collaboration is not needed, then, it is probably better to do the change on the master.
